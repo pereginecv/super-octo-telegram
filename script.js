@@ -5,3 +5,5 @@ let message = (login == 'Сотрудник') ? 'Привет' :
 alert(message)
 alert('OK')
 alert(1+2)
+alert('OK')
+alert(1+2)
